@@ -1,0 +1,15 @@
+html {
+  background-image:    url(https://wc24.mariocube.com/Background%20Images/Nintendo%20Channel.png);
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;              /* optional, center the image */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; 
+  /* Thanks spotlight for the Mac font code. (Also, hopefully we dont forever hate each other after that thing.) */
+}
+img.gloom {
+  align-content: center;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
